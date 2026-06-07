@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Check and encode target elements to secure HTML and JS context strings.
+  name: xss-sandbox-encoder version: 1.0 type: Repository author: VarshuAi description: >   Check and encode target elements to secure HTML and JS context strings. primary_tech: CSS
 primary_tech: CSS
 ```
 
